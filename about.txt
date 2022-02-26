@@ -1,0 +1,6 @@
+Tech Stach:
+HTML, CSS, JavaScript, Node, Express, body-parser, ejs, lodash, mongoose, nodemon.
+
+Database: mongoDB, mongoDB Atlas.
+
+Hosted on: Heroku.
