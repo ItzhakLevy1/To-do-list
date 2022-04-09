@@ -1,6 +1,8 @@
-Tech Stach:
+Tech Stack:
 HTML, CSS, JavaScript, Node, Express, body-parser, ejs, lodash, mongoose, nodemon.
 
 Database: mongoDB, mongoDB Atlas.
 
 Hosted on: Heroku.
+
+https://secret-reaches-79045.herokuapp.com/
