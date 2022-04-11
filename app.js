@@ -12,7 +12,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect("mongodb+srv://admin-Itzhak:Test123@cluster0.iwftx.mongodb.net/todolistDB"); // Specifing how to connect to mongodb and which data base to connect to.
+mongoose.connect("xxx"); // Specifing how to connect to mongodb and which data base to connect to.
 
 const itemsSchema = {  // Setting a schema structor for the data base.
   name: String
